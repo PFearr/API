@@ -1,0 +1,38 @@
+{
+    "users": [
+        {
+            "displayName": "Fearr",
+            "username": "PFearr",
+            "userID": 1,
+            "aboutMe": "Testing",
+            "Rank": "Owner",
+            "GroupsIDs": [324234,4354325,234237654,23453245],
+            "AccAge": 0,
+            "VerifiedStatus": true,
+            "BannedStatus": false
+
+        },
+        {
+            "displayName": "Oinkers",
+            "username": "MrOinkerz",
+            "userID": 2,
+            "aboutMe": "Lol",
+            "Rank": "Beta Tester",
+            "GroupsIDs": [32,345234543,32454],
+            "AccAge": 0,
+            "VerifiedStatus": true,
+            "BannedStatus": false
+        },
+        {
+            "displayName": "No One",
+            "username": "No ne",
+            "userID": 3,
+            "aboutMe": "Banned",
+            "Rank": "Banned",
+            "GroupsIDs": [43,234213543,353245],
+            "AccAge": 0,
+            "VerifiedStatus": true,
+            "BannedStatus": true
+        }
+    ]
+}
