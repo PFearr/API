@@ -1,9 +1,8 @@
 {
     "users": [
-        {
+        {   "userID": 1,
             "displayName": "Fearr",
             "username": "PFearr",
-            "userID": 1,
             "aboutMe": "Testing",
             "Rank": "Owner",
             "GroupsIDs": [324234,4354325,234237654,23453245],
