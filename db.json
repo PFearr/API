@@ -1,6 +1,7 @@
 {
     "users": [
-        {   "userID": 1,
+        {   "id": 1,
+            "userID": 1,
             "displayName": "Fearr",
             "username": "PFearr",
             "aboutMe": "Testing",
