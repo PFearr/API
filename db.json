@@ -1,6 +1,7 @@
 {
     "users": [
-        {   "id": 1,
+        {   
+            "id": 1,
             "userID": 1,
             "displayName": "Fearr",
             "username": "PFearr",
@@ -13,6 +14,7 @@
 
         },
         {
+            "id": 2,
             "displayName": "Oinkers",
             "username": "MrOinkerz",
             "userID": 2,
@@ -24,6 +26,7 @@
             "BannedStatus": false
         },
         {
+            "id": 3,
             "displayName": "No One",
             "username": "No ne",
             "userID": 3,
